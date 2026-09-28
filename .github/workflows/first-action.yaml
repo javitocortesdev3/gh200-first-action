@@ -12,3 +12,6 @@ jobs:
 
       - name: Print goodbye
         run: echo "Done - Aye!"
+
+      - name: print shalom
+        run: echo "Are you ready for a loan"  
